@@ -1,19 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 # Importing Libraries
 
 import numpy as np
 import pandas as pd
 
-
-# In[11]:
-
-
-# Creating a list of 9 digits.
+# Creating a function that returns aggregates of nine numbers.
 
 def calculate(nine_int):
     if len(nine_int) != 9:
@@ -36,18 +26,3 @@ def calculate(nine_int):
         print(key,value,'\n')
 
 calculate([19, 23, 22, 13, 25, 19, 8, 28, 14])
-    
-    
-
-
-# In[24]:
-
-
-
-
-
-# In[ ]:
-
-
-
-

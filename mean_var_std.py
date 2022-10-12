@@ -1,7 +1,6 @@
-# Importing Libraries
+# Importing Numpy Library
 
 import numpy as np
-import pandas as pd
 
 # Creating a function that returns aggregates of nine numbers.
 

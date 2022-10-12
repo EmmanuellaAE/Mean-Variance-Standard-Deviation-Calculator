@@ -24,4 +24,4 @@ def calculate(nine_int):
     for key,value in aggregates.items():
         print(key,value,'\n')
 
-calculate([19, 23, 22, 13, 25, 19, 8, 28, 14])
+calculate()
